@@ -1,7 +1,7 @@
 # My-Favorite-Band
 This repository contains HTML as a language its styled by CSS and it contains a well documented readme.
 # Favorite Band
-This tis 7my favorite band created on 2005 in Kenya.it's a unique blend of contemporary music used by different tribes.Their music often features traditional African instruments and modern beats.
+This is my favorite band created on 2005 in Kenya.it's a unique blend of contemporary music used by different tribes.Their music often features traditional African instruments and modern beats.
 ## Introduction.
 The aim of this webpage is  to give a description of Luhya songs.Links to their Albums.It also provides a short biography of each member of the band and an image.
 ## Author.
